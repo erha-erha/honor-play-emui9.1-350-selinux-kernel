@@ -1,0 +1,8 @@
+*.img
+*_Image
+*_Image.gz
+SHA256SUMS.txt
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
